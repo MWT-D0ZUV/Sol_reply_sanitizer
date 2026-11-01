@@ -6,7 +6,7 @@
   "description": "清理明确思考标签与已知句首残留标记，提供独立的可选外观过滤；保留代码示例，透传其他回复策略参数。不能保证识别任意自然语言分析。",
   "author": {
     "name": "Sol",
-    "url": "https://example.invalid/Sol"
+    "url": "https://github.com/MWT-D0ZUV/Sol_reply_sanitizer"
   },
   "license": "MIT",
   "host_application": {
@@ -26,6 +26,7 @@
     ]
   },
   "urls": {
-    "repository": "https://example.invalid/Sol/reply_sanitizer"
+    "repository": "https://github.com/MWT-D0ZUV/Sol_reply_sanitizer"
   }
 }
+
