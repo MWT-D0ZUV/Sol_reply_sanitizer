@@ -9,4 +9,4 @@
 
 下载本Release附带的portable.zip安装。升级保留自己的config.toml。标签净化不能保证识别无标签的自然语言分析；emoji/私用区过滤仅控制外观。
 
-作者标记与MIT许可沿用Sol；修改、测试、文档及打包由AI（Codex / DeepSeek Harness）协助；非原作者官方审阅认证。清单example.invalid为未填写真实仓库前的无效占位。
+作者标记与MIT许可沿用Sol；修改、测试、文档及打包由AI（Codex / DeepSeek Harness）协助；非原作者官方审阅认证。项目仓库：https://github.com/MWT-D0ZUV/Sol_reply_sanitizer。本次仅更新发布地址与文档，功能及版本仍为1.5.3。
