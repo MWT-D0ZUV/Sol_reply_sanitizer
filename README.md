@@ -56,4 +56,4 @@ python -B tests/validate_plugin.py
 
 分发时按文件白名单打包，不包含本机账号绑定、关注名单、聊天日志、请求快照、API 配置、缓存、配置历史或本机路径。本次私人审计报告与脚本存于源码目录之外，不应加入分发包。所有回归测试均为合成文本。
 
-原 manifest 作者为 Sol、许可标记为 MIT。宿主清单要求作者主页和仓库 URL，因此保留原清单的 `example.invalid` 无效占位地址；它们无法访问，不代表真实作者主页或公开上游。修复、整理和测试由 AI（Codex / DeepSeek Harness）协助，未取得原作者官方发布或审阅声明。包内 `SHA256SUMS.txt` 用于核对内容。
+原 manifest 作者为 Sol、许可标记为 MIT。项目仓库：[MWT-D0ZUV/Sol_reply_sanitizer](https://github.com/MWT-D0ZUV/Sol_reply_sanitizer)。清单的 repository 指向该仓库；author.url 同样使用项目页作为联系入口，作者标记仍沿用 Sol。修复、整理和测试由 AI（Codex / DeepSeek Harness）协助，未取得原作者官方发布或审阅声明。包内 `SHA256SUMS.txt` 用于核对内容。
